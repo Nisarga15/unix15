@@ -1,7 +1,7 @@
 **Unix15**
 
 This repository contains a UNIX shell scripting project created as part of a UNIX/Linux coursework or practice exercise.
-It includes a shell script game and a Makefile to automate execution.
+It includes a **shell script game and a Makefile** to automate execution.
 
 **📌 Project Overview**
 
